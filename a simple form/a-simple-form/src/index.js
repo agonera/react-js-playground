@@ -1,12 +1,31 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: http://bit.ly/CRA-PWA
-serviceWorker.unregister();
+/*  HTML -> JSX
+    class -> className
+    style="background-color: grey" -> style={{ backgroundColor: 'grey' }}
+    for -> htmlFor
+*/
+
+function someText() {
+    return "Some text";
+}
+
+/* refenrencing a JS variable: {buttonText} */
+
+const App = () => {
+    const buttonText = "Submit";
+    const style = {backgroundColor: 'grey', color: 'white'};
+    const labelText = "Enter name: ";
+    return (
+        <div>
+            <label className="label" htmlFor="name">{labelText}</label>
+            <input type="text" id="name"/>
+            <button style={style}>{buttonText}</button>
+            <p>{someText()}</p>
+        </div>
+    );
+};
+
+ReactDOM.render(<App/>, document.querySelector('#root'));
