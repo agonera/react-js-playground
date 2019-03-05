@@ -12,8 +12,8 @@ class App extends React.Component {
         this.state = {lat: null, lon: null, errorMessage: ''};
     }
 
-    // or instead of the constructor:
-    // == state = {lat: null, errorMessage: ''};
+    // or instead of the constructor - initialize state object:
+    // state = {lat: null, errorMessage: ''};
 
     // lifecycle methods:
     componentDidMount() {
