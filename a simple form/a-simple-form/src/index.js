@@ -12,6 +12,23 @@ function someText() {
     return "Some text";
 }
 
+class InputBar extends React.Component{
+    state = {userInput: ''};
+
+    render() {
+        return (
+            <div>
+                <form>
+                    <input
+                        type="text"
+                        value={this.state.userInput}
+                    />
+                </form>
+            </div>
+        );
+    }
+}
+
 /* refenrencing a JS variable: {buttonText} */
 
 const App = () => {
