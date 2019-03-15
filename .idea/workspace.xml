@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd320dd-f65a-4907-a715-24a7de9f12d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/InputBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a simple form/a-simple-form/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/a simple form/a-simple-form/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/components/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/components/InputBar demo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/components/InputBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/components/InputList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/index.js">
+        <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="306">
+              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -45,31 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js">
+        <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/InputBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="371">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -115,15 +82,19 @@
         <option value="$PROJECT_DIR$/a simple form/a-simple-form/src/index.js" />
         <option value="$PROJECT_DIR$/event handlers/event-handlers/src/index.js" />
         <option value="$PROJECT_DIR$/event handlers/event-handlers/public/index.html" />
-        <option value="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js" />
         <option value="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputItem.js" />
         <option value="$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js" />
+        <option value="$PROJECT_DIR$/event handlers v2/event-handlers-v2/public/index.html" />
+        <option value="$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js" />
+        <option value="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/App.js" />
+        <option value="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/InputBar.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="949" />
-    <option name="height" value="1076" />
+    <option name="x" value="961" />
+    <option name="width" value="959" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,26 +114,26 @@
             <path>
               <item name="React JS course" type="b2602c69:ProjectViewProjectNode" />
               <item name="React JS course" type="462c0819:PsiDirectoryNode" />
-              <item name="event handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="event handlers v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="React JS course" type="b2602c69:ProjectViewProjectNode" />
               <item name="React JS course" type="462c0819:PsiDirectoryNode" />
-              <item name="event handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="event-handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="event handlers v2" type="462c0819:PsiDirectoryNode" />
+              <item name="event-handlers-v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="React JS course" type="b2602c69:ProjectViewProjectNode" />
               <item name="React JS course" type="462c0819:PsiDirectoryNode" />
-              <item name="event handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="event-handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="event handlers v2" type="462c0819:PsiDirectoryNode" />
+              <item name="event-handlers-v2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="React JS course" type="b2602c69:ProjectViewProjectNode" />
               <item name="React JS course" type="462c0819:PsiDirectoryNode" />
-              <item name="event handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="event-handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="event handlers v2" type="462c0819:PsiDirectoryNode" />
+              <item name="event-handlers-v2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -182,6 +153,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/event handlers v2/event-handlers-v2/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/forms and event handlers/forms-and-event-handlers/src/components" />
     </key>
@@ -218,22 +192,21 @@
       <workItem from="1551910035113" duration="611000" />
       <workItem from="1552649518355" duration="3370000" />
       <workItem from="1552662731709" duration="1135000" />
-      <workItem from="1552664842472" duration="3914000" />
+      <workItem from="1552664842472" duration="10632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58134000" />
+    <option name="totallyTimeSpent" value="64852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1080" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20506062" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22034791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32944915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -400,31 +373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list of comments/list-of-comments/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="39" selection-start-line="25" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -438,13 +390,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js">
+    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="15" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers/event-handlers/src/components/InputBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="67" lean-forward="true" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event handlers v2/event-handlers-v2/src/components/InputBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>

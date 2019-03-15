@@ -16,27 +16,31 @@ class InputBar extends React.Component {
 
     state = {userInput: ''};
 
-    // required!!
+    // <input onChange={this.onInputChange} /> - required!!
     // otherwise input field will be read-only
-    handleChange = (event) => {
+    onInputChange = (event) => {
         this.setState({userInput: event.target.value});
     };
 
-    handleSubmit = (event) => {
-        console.log(this.state.userInput);
-        event.preventDefault();
+    onFormSubmit = (event) => {
+        event.preventDefault(); // prevent from refreshing the page automatically after submitting a form
+
+        // console.log(this.state.userInput); - instead of this...
+        // we want to call onInputSubmit from App:
+        this.props.whenUserSubmits(this.state.userInput);
+
     };
 
     render() {
         return (
-            <div>
-                <form onSubmit={this.handleSubmit}>
+            <div className="ui segment">
+                <form className="ui form" onSubmit={this.onFormSubmit}>
                     <input
                         type="text"
                         value={this.state.userInput}
-                        onChange={this.handleChange}
+                        onChange={this.onInputChange}
                     />
-                    <button type="submit">submit</button>
+                    <button className="ui button" type="submit">Submit</button>
                 </form>
             </div>
         );
