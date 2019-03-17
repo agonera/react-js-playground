@@ -11,7 +11,6 @@ import React from 'react';
 
 ////////////////////////////////////////////////////////////////////////////
 
-// state needed to handle user input -> class
 class InputBar extends React.Component {
 
     state = {userInput: ''};
